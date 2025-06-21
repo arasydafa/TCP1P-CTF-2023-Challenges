@@ -11,7 +11,7 @@
     "@dead50f7/adbkit": "2.11.4",
     "express": "4.18.1",
     "node-pty": "0.10.1",
-    "portfinder": "1.0.28",
+    "portfinder": "1.0.37",
     "tslib": "2.4.0",
     "ws": "8.8.1",
     "yaml": "2.2.2"
