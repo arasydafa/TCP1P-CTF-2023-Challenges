@@ -1,5 +1,5 @@
 #FROM python:3.7.2-stretch
-FROM python:3.9.9
+FROM python:3.14.0rc2
 
 RUN useradd -U -m -s /bin/bash ctf
 
